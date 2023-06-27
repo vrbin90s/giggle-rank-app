@@ -1,0 +1,379 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Shutter Island",
+      "year": "2010",
+      "type": "movie",
+      "imdb": "https://www.imdb.com/title/tt1130884",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY396_CR6,0,267,396_AL_.jpg",
+      "authorId": 1
+    },
+    {
+      "id": 2,
+      "title": "Batman Begins",
+      "year": "2005",
+      "type": "movie",
+      "imdb": "https://www.imdb.com/title/tt0372784",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY396_CR6,0,267,396_AL_.jpg",
+      "authorId": 1
+    },
+    {
+      "id": 3,
+      "title": "The Godfather",
+      "year": "1972",
+      "type": "movie",
+      "imdb": "https://www.imdb.com/title/tt0088247",
+      "image": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY396_CR6,0,263,396_AL_.jpg",
+      "authorId": 2
+    },
+    {
+      "id": 4,
+      "title": "The Terminator",
+      "year": "1984",
+      "type": "movie",
+      "imdb": "https://www.imdb.com/title/tt1130884",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY396_CR6,0,267,396_AL_.jpg",
+      "authorId": 2
+    },
+    {
+      "id": 5,
+      "title": "Predator",
+      "year": "1987",
+      "type": "movie",
+      "imdb": "https://www.imdb.com/title/tt0093773",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTI5Mjg1MzM4NF5BMl5BanBnXkFtZTcwNTAyNzUzMw@@._V1_UY396_CR6,0,267,396_AL_.jpg",
+      "authorId": 3
+    },
+    {
+      "id": 6,
+      "title": "Rambo",
+      "year": "2008",
+      "type": "movie",
+      "imdb": "https://www.imdb.com/title/tt0462499",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY396_CR6,0,267,396_AL_.jpg",
+      "authorId": 3
+    },
+    {
+      "id": 7,
+      "title": "Rocky",
+      "year": "1976",
+      "type": "movie",
+      "imdb": "https://www.imdb.com/title/tt1130884",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTBkMjg2MjYtYTZjOS00ODQ0LTg0MDEtM2FiNmJmOGU1NGEwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UY396_CR6,0,260,396_AL_.jpg",
+      "authorId": 4
+    },
+    {
+      "id": 8,
+      "title": "Commando",
+      "year": "1985",
+      "type": "movie",
+      "imdb": "https://www.imdb.com/title/tt0088944",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWE0ZjFhYjItMzI5MC00MDllLWE4OGMtMzlhNGQzN2RjN2MwXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_UY396_CR6,0,264,396_AL_.jpg",
+      "authorId": 4
+    },
+    {
+      "id": 9,
+      "title": "Kickboxer",
+      "year": "1987",
+      "type": "movie",
+      "imdb": "https://www.imdb.com/title/tt0097659",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjIyNTM4ODYtNTU2Yy00OTRlLWFmNTEtNmM2NTQyZjA5NmY2XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_UY396_CR6,0,253,396_AL_.jpg",
+      "authorId": 5
+    },
+    {
+      "id": 10,
+      "title": "Bloodsport",
+      "year": "1988",
+      "type": "movie",
+      "imdb": "https://www.imdb.com/title/tt0092675",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTJmMGEzMTQtMzQzMi00YjE1LWI4MTctNjY0NWZiYzE2MDVhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY396_CR6,0,253,396_AL_.jpg",
+      "authorId": 5
+    }
+  ],
+  "anime": [
+    {
+      "id": 1,
+      "title": "Howl's Moving Castle",
+      "year": "2004",
+      "type": "movie",
+      "imdb": "https://www.imdb.com/title/tt0347149",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmM4YTFmMmItMGE3Yy00MmRkLTlmZGEtMzZlOTQzYjk3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY396_CR6,0,264,396_AL_.jpg",
+      "authorId": 4
+    },
+    {
+      "id": 2,
+      "title": "The Simpsons Movie",
+      "year": "2007",
+      "type": "movie",
+      "imdb": "https://www.imdb.com/title/tt0462538",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjc4NmQyNGUtMDg4NS00ZTZkLWI3ODQtMGJmYThiYjQxNGRiXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_UY396_CR6,0,267,396_AL_.jpg",
+      "authorId": 5
+    },
+    {
+      "id": 3,
+      "title": "Spirited Away",
+      "year": "2001",
+      "type": "movie",
+      "imdb": "https://www.imdb.com/title/tt0245429",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY396_CR6,0,267,396_AL_.jpg",
+      "authorId": 5
+    }
+  ],
+  "reviews": [
+    {
+      "authorId": 1,
+      "id": 1,
+      "title": "Spectacularly Awful!",
+      "body": "This movie was a trainwreck from start to finish. The acting, plot, and special effects were so cringe-worthy that I couldn't look away. It deserves an award for being hilariously bad!"
+    },
+    {
+      "authorId": 1,
+      "id": 1,
+      "title": "A Roller Coaster of Emotions",
+      "body": "This film took me on a wild ride of laughter, tears, and confusion. I laughed at the absurdity, cried at the over-dramatic moments, and scratched my head at the plot twists. It's a unique experience, to say the least!"
+    },
+    {
+      "authorId": 1,
+      "id": 2,
+      "title": "Unexpectedly Delightful",
+      "body": "I went into this movie with low expectations, but boy, was I pleasantly surprised! It's like stumbling upon a hidden gem in a pile of rocks. Quirky characters, witty dialogue, and a heartwarming storyline made it an unexpected delight."
+    },
+    {
+      "authorId": 1,
+      "id": 2,
+      "title": "Laugh Riot!",
+      "body": "Warning: Watch at your own risk! This comedy had me rolling in the aisles with its hilarious one-liners and slapstick humor. I laughed so hard that the person next to me thought I was having a fit. Don't miss it!"
+    },
+    {
+      "authorId": 1,
+      "id": 3,
+      "title": "An Epic Disasterpiece",
+      "body": "Calling this movie a disaster would be an understatement. It was an epic disasterpiece of epic proportions! From the cringe-worthy acting to the laughable special effects, it's a masterpiece in unintentional comedy."
+    },
+    {
+      "authorId": 1,
+      "id": 3,
+      "title": "A Cinematic Rollercoaster",
+      "body": "Hold on tight for this wild ride! This movie had more twists and turns than a pretzel. Just when you thought you knew what was going on, it took a sharp left turn into absurdity. Strap in and enjoy the craziness!"
+    },
+    {
+      "authorId": 1,
+      "id": 4,
+      "title": "Laughed 'Til I Cried",
+      "body": "This comedy had me in stitches! The clever humor, impeccable timing, and ridiculous situations had me laughing so hard that tears streamed down my face. It's a guaranteed mood-lifter!"
+    },
+    {
+      "authorId": 1,
+      "id": 4,
+      "title": "An Unforgettable Disaster",
+      "body": "This movie will forever be etched in my memory, not for its brilliance but for its sheer awfulness. It's so bad that it's unforgettable. It's a must-watch if you're in the mood for a good laugh and some eye-rolling!"
+    },
+    {
+      "authorId": 1,
+      "id": 5,
+      "title": "Pure Cheesy Goodness",
+      "body": "This film is the epitome of cheesy goodness! It's like a guilty pleasure that you can't help but enjoy. The cheesy dialogue, predictable plot, and over-the-top acting make it an absolute blast!"
+    },
+    {
+      "authorId": 1,
+      "id": 5,
+      "title": "Laughably Brilliant",
+      "body": "Brace yourself for a mind-boggling blend of genius and absurdity! This movie is so brilliantly funny that it borders on insanity. The offbeat humor and unconventional storytelling make it a true gem for comedy enthusiasts."
+    }
+  ],
+  "comments": [
+    {
+      "reviewId": 1,
+      "id": 1,
+      "username": "SnarkyCinephile",
+      "email": "moviecritic42@example.com",
+      "body": "Wow, this review is more confusing than the movie itself! I appreciate the effort, though. Maybe next time, stick to movies that actually make sense."
+    },
+    {
+      "reviewId": 1,
+      "id": 2,
+      "username": "OptimisticMovieGoer",
+      "email": "brightsidefanatic@email.com",
+      "body": "I disagree with this review completely! The movie was a delightful train wreck, full of questionable acting and mind-boggling plot twists. I couldn't look away!"
+    },
+    {
+      "reviewId": 2,
+      "id": 3,
+      "username": "SassyScreenWatcher",
+      "email": "sarcasticreviewer@fakemail.com",
+      "body": "Hilarious review! I almost choked on my popcorn from laughing so hard. I'm not sure if the movie was intentionally bad or if it was an accidental masterpiece. Either way, it's a must-see for comedy lovers!"
+    },
+    {
+      "reviewId": 2,
+      "id": 4,
+      "username": "PickyFilmFanatic",
+      "email": "criticatheart@example.com",
+      "body": "I can't help but nitpick this review. The movie was a mixed bag of clichés and uninspired storytelling. However, the special effects were mind-blowing, so at least it had some redeeming qualities!"
+    },
+    {
+      "reviewId": 3,
+      "id": 5,
+      "username": "MovieMaverick",
+      "email": "rebelreviewer@rebellionmail.com",
+      "body": "I'm glad I didn't rely solely on this review. The movie was a wild ride of absurdity and unexpected laughs. It won't win any Oscars, but it's perfect for a goofy movie night with friends!"
+    },
+    {
+      "reviewId": 3,
+      "id": 6,
+      "username": "SarcasmEnthusiast",
+      "email": "notserious@pretendmail.com",
+      "body": "Oh no, this review has shattered my dreams of cinematic greatness! I was hoping for a profound masterpiece, but it sounds like I'll be settling for a hilariously bad movie experience instead."
+    },
+    {
+      "reviewId": 4,
+      "id": 7,
+      "username": "MovieBuffoon",
+      "email": "laughoutloudlover@jokebox.com",
+      "body": "I completely disagree with this review! The movie was a laugh riot from start to finish. Sure, the plot had more holes than Swiss cheese, but it delivered non-stop entertainment!"
+    },
+    {
+      "reviewId": 4,
+      "id": 8,
+      "username": "DiscerningViewer",
+      "email": "seriouscinephile@cinemaexpert.com",
+      "body": "This review perfectly captures the essence of the movie. It's a baffling mix of brilliance and utter nonsense. Strap yourself in for a wild ride that will leave you questioning your sanity!"
+    },
+    {
+      "reviewId": 5,
+      "id": 9,
+      "username": "FilmFanatic123",
+      "email": "cinephileextraordinaire@moviesrock.com",
+      "body": "This review made me laugh harder than the movie itself! It's like the reviewer watched an entirely different film. But hey, opinions are like movies, everyone's got one!"
+    },
+    {
+      "reviewId": 5,
+      "id": 10,
+      "username": "ComedyConnoisseur",
+      "email": "laughologist@funnymail.com",
+      "body": "I have to disagree with this review. The movie may not have been a masterpiece, but it had its moments of comedic gold. It's worth watching for a few good chuckles!"
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874"
+      }
+    },
+    {
+      "id": 2,
+      "name": "John Smith",
+      "username": "JSmith",
+      "email": "jsmith@example.com",
+      "address": {
+        "street": "Oak Avenue",
+        "suite": "Apt. 123",
+        "city": "Springfield",
+        "zipcode": "12345"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Emily Johnson",
+      "username": "EmJ",
+      "email": "emilyj@example.com",
+      "address": {
+        "street": "Cedar Street",
+        "suite": "Apt. 789",
+        "city": "Pleasantville",
+        "zipcode": "67890"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Michael Anderson",
+      "username": "MAnderson",
+      "email": "manderson@example.com",
+      "address": {
+        "street": "Maple Lane",
+        "suite": "Apt. 456",
+        "city": "Evergreen",
+        "zipcode": "54321"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Sarah Thompson",
+      "username": "SThompson",
+      "email": "sthompson@example.com",
+      "address": {
+        "street": "Pine Street",
+        "suite": "Apt. 987",
+        "city": "Greenville",
+        "zipcode": "13579"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Daniel Wilson",
+      "username": "DWilson",
+      "email": "dwilson@example.com",
+      "address": {
+        "street": "Elm Avenue",
+        "suite": "Apt. 654",
+        "city": "Windsor",
+        "zipcode": "97531"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Olivia Martinez",
+      "username": "OMartinez",
+      "email": "omartinez@example.com",
+      "address": {
+        "street": "Spruce Lane",
+        "suite": "Apt. 321",
+        "city": "Greenwood",
+        "zipcode": "24680"
+      }
+    },
+    {
+      "id": 8,
+      "name": "William Davis",
+      "username": "WDavis",
+      "email": "wdavis@example.com",
+      "address": {
+        "street": "Cypress Street",
+        "suite": "Apt. 654",
+        "city": "Riverside",
+        "zipcode": "90876"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Sophia Brown",
+      "username": "SBrown",
+      "email": "sbrown@example.com",
+      "address": {
+        "street": "Aspen Avenue",
+        "suite": "Apt. 789",
+        "city": "Woodland",
+        "zipcode": "60123"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Alexander Taylor",
+      "username": "ATaylor",
+      "email": "ataylor@example.com",
+      "address": {
+        "street": "Birch Lane",
+        "suite": "Apt. 987",
+        "city": "Meadowville",
+        "zipcode": "45678"
+      }
+    }
+  ]
+}
