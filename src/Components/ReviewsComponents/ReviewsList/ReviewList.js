@@ -1,3 +1,4 @@
+import './ReviewsList';
 const ReviewsList = () => {
 
 }

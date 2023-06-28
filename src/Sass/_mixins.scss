@@ -1,0 +1,21 @@
+// Mobile first breakpoints
+@mixin respond($breakpoint) {
+
+	@if $breakpoint == tablet-screen {
+			@media (min-width: 375px) {
+					@content;
+			}
+	}
+
+	@if $breakpoint == desktop-screen {
+		@media (min-width: 769px) {
+				@content;
+		}
+	}
+	
+	@if $breakpoint == maximum-screen {
+		@media (min-width: 1920px) {
+			@content;
+		}
+	} 
+}

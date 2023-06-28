@@ -1,3 +1,4 @@
+import './ReviewsPage.scss';
 const ReviewsPage = () => {
 
 }

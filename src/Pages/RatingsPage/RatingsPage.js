@@ -1,3 +1,4 @@
+import './RatingsPage.scss';
 const RatingsPage = () => {
 
 }

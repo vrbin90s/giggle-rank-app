@@ -1,3 +1,4 @@
+import './CriticsList.scss';
 const CriticsList = () => {
 
 }

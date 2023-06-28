@@ -1,3 +1,4 @@
+import './MoviessPage.scss';
 const MoviesPage = () => {
 
 }

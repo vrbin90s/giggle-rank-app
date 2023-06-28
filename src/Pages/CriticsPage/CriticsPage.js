@@ -1,3 +1,4 @@
+import './CriticsPage.scss';
 const CriticsPage = () => {
 
 }

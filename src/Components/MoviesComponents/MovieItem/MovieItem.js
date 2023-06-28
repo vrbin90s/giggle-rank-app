@@ -1,3 +1,4 @@
+import './MovieItem.scss';
 const MovieItem = () => {
 
 }

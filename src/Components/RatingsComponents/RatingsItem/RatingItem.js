@@ -1,3 +1,4 @@
+import './RatingItem.scss';
 const RatingItem = () => {
 
 }

@@ -1,3 +1,4 @@
+import './CriticItem.scss';
 const CriticItem = () => {
 
 }

@@ -1,3 +1,4 @@
+import './RatingsList.scss';
 const RatingsList = () => {
 
 }

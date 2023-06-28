@@ -1,3 +1,4 @@
+import './ReviewItem.scss';
 const ReviewItem = () => {
 
 }
