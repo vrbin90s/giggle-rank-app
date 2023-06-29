@@ -5,6 +5,7 @@
       "title": "Shutter Island",
       "year": "2010",
       "type": "movie",
+      "description": "A U.S Marshal, Teddy Daniels, investigates the disappearance of a murderer who escaped from a hospital for the criminally insane. However, his investigation is affected by his troubling visions and the mysterious doctors on the island.",
       "imdb": "https://www.imdb.com/title/tt1130884",
       "image": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY396_CR6,0,267,396_AL_.jpg",
       "authorId": 1
@@ -14,6 +15,7 @@
       "title": "Batman Begins",
       "year": "2005",
       "type": "movie",
+      "description": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from the corruption that the Scarecrow and the League of Shadows have cast upon it.",
       "imdb": "https://www.imdb.com/title/tt0372784",
       "image": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY396_CR6,0,267,396_AL_.jpg",
       "authorId": 1
@@ -23,6 +25,7 @@
       "title": "The Godfather",
       "year": "1972",
       "type": "movie",
+      "description": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son, sparking a series of unfortunate events.",
       "imdb": "https://www.imdb.com/title/tt0088247",
       "image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY396_CR6,0,278,396_AL_.jpg",
       "authorId": 2
@@ -32,6 +35,7 @@
       "title": "The Terminator",
       "year": "1984",
       "type": "movie",
+      "description": "A seemingly indestructible cyborg from the future is sent back to 1984 to assassinate a waitress, whose unborn son will lead humanity in a war against sentient machines.",
       "imdb": "https://www.imdb.com/title/tt1130884",
       "image": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY396_CR6,0,263,396_AL_.jpg",
       "authorId": 2
@@ -41,6 +45,7 @@
       "title": "Predator",
       "year": "1987",
       "type": "movie",
+      "description": "A team of commandos on a mission in a Central American jungle find themselves hunted by an extraterrestrial warrior.",
       "imdb": "https://www.imdb.com/title/tt0093773",
       "image": "https://m.media-amazon.com/images/M/MV5BY2QwYmFmZTEtNzY2Mi00ZWMyLWEwY2YtMGIyNGZjMWExOWEyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_UY396_CR6,0,265,396_AL_.jpg",
       "authorId": 3
@@ -50,6 +55,7 @@
       "title": "Rambo",
       "year": "2008",
       "type": "movie",
+      "description": "A troubled Vietnam War veteran and former U.S. Army Special Forces soldier, John Rambo, is skilled in many aspects of survival, weapons, hand-to-hand combat and guerrilla warfare. The series depicts his violent nature and struggle with PTSD.",
       "imdb": "https://www.imdb.com/title/tt0462499",
       "image": "https://m.media-amazon.com/images/M/MV5BMTI5Mjg1MzM4NF5BMl5BanBnXkFtZTcwNTAyNzUzMw@@._V1_UY396_CR6,0,267,396_AL_.jpg",
       "authorId": 3
@@ -59,6 +65,7 @@
       "title": "Rocky",
       "year": "1976",
       "type": "movie",
+      "description": "A small-time boxer gets a supremely rare chance to fight a heavyweight champion in a bout in which he strives to go the distance for his self-respect.",
       "imdb": "https://www.imdb.com/title/tt1130884",
       "image": "https://m.media-amazon.com/images/M/MV5BNTBkMjg2MjYtYTZjOS00ODQ0LTg0MDEtM2FiNmJmOGU1NGEwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UY396_CR6,0,260,396_AL_.jpg",
       "authorId": 4
@@ -68,6 +75,7 @@
       "title": "Commando",
       "year": "1985",
       "type": "movie",
+      "description": "A retired special forces colonel tries to save his daughter, who was abducted by his former subordinate.",
       "imdb": "https://www.imdb.com/title/tt0088944",
       "image": "https://m.media-amazon.com/images/M/MV5BZWE0ZjFhYjItMzI5MC00MDllLWE4OGMtMzlhNGQzN2RjN2MwXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_UY396_CR6,0,264,396_AL_.jpg",
       "authorId": 4
@@ -77,6 +85,7 @@
       "title": "Kickboxer",
       "year": "1987",
       "type": "movie",
+      "description": "After his brother becomes paralyzed in the ring, a young martial artist travels to Thailand seeking vengeance against the fighter who injured his sibling.",
       "imdb": "https://www.imdb.com/title/tt0097659",
       "image": "https://m.media-amazon.com/images/M/MV5BMjIyNTM4ODYtNTU2Yy00OTRlLWFmNTEtNmM2NTQyZjA5NmY2XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_UY396_CR6,0,253,396_AL_.jpg",
       "authorId": 5
@@ -86,39 +95,12 @@
       "title": "Bloodsport",
       "year": "1988",
       "type": "movie",
+      "description": "An American martial artist, Frank Dux, competes in an illegal, underground full-contact fighting tournament in Hong Kong, where serious injury and even death are not unknown.",
       "imdb": "https://www.imdb.com/title/tt0092675",
       "image": "https://m.media-amazon.com/images/M/MV5BNTJmMGEzMTQtMzQzMi00YjE1LWI4MTctNjY0NWZiYzE2MDVhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY396_CR6,0,253,396_AL_.jpg",
       "authorId": 5
     }
-  ],
-  "anime": [
-    {
-      "id": 1,
-      "title": "Howl's Moving Castle",
-      "year": "2004",
-      "type": "movie",
-      "imdb": "https://www.imdb.com/title/tt0347149",
-      "image": "https://m.media-amazon.com/images/M/MV5BNmM4YTFmMmItMGE3Yy00MmRkLTlmZGEtMzZlOTQzYjk3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY396_CR6,0,264,396_AL_.jpg",
-      "authorId": 4
-    },
-    {
-      "id": 2,
-      "title": "The Simpsons Movie",
-      "year": "2007",
-      "type": "movie",
-      "imdb": "https://www.imdb.com/title/tt0462538",
-      "image": "https://m.media-amazon.com/images/M/MV5BNjc4NmQyNGUtMDg4NS00ZTZkLWI3ODQtMGJmYThiYjQxNGRiXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_UY396_CR6,0,267,396_AL_.jpg",
-      "authorId": 5
-    },
-    {
-      "id": 3,
-      "title": "Spirited Away",
-      "year": "2001",
-      "type": "movie",
-      "imdb": "https://www.imdb.com/title/tt0245429",
-      "image": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY396_CR6,0,267,396_AL_.jpg",
-      "authorId": 5
-    }
+  
   ],
   "reviews": [
     {

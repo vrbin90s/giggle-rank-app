@@ -1,20 +1,22 @@
+import CommentsList from '../../Components/CommentsComponents/CommentsList/CommentsList';
 import Container from '../../Components/Core/Container/Container';
-import ReviewsList from '../../Components/ReviewsComponents/ReviewsList/ReviewsList';
-import './ReviewsPage.scss';
+import './CommentsPage.scss';
 
-const ReviewsPage = () => {
+const CommentsPage = () => {
+
   return (
     <Container>
       <div className="row">
         <div className="col-sm-12 text-center">
           <div className="review__item">
             <ul>
-              <ReviewsList/>
+              <CommentsList/>
             </ul>
           </div>
         </div>
       </div>
     </Container>
   )
+
 }
-export default ReviewsPage;
+export default CommentsPage;

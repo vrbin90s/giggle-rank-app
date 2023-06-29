@@ -33,7 +33,7 @@ const Navigation = () => {
                 <li className="nav__menu--item"><NavLink className="nav__menu--link" to="/movies" onClick={handleLinkClick}>Movies</NavLink></li>
                 <li className="nav__menu--item"><NavLink className="nav__menu--link" to="/reviews" onClick={handleLinkClick}>Reviews</NavLink></li>
                 <li className="nav__menu--item"><NavLink className="nav__menu--link" to="/critics" onClick={handleLinkClick}>Our Critics</NavLink></li>
-                <li className="nav__menu--item"><NavLink className="nav__menu--link" to="/ratings" onClick={handleLinkClick}>Ratings</NavLink></li>
+                <li className="nav__menu--item"><NavLink className="nav__menu--link" to="/comments" onClick={handleLinkClick}>Comments</NavLink></li>
               </ul>
             </nav>
             <button 
