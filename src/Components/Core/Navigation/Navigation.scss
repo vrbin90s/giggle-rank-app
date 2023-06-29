@@ -1,0 +1,199 @@
+@import '../../../Sass/variables';
+@import '../../../Sass/mixins';
+@import '../../../Sass/base';
+@import '../../../Sass/typography';
+
+.header {
+  &__top {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10.6rem;
+    background-color: $color-primary;
+  }
+  &__bottom {
+    position: relative;
+    background-color: $color-secondary;
+    height: 8rem;
+    display: flex;
+    align-items: center;
+
+  }
+  &__logo {
+    font-size: 3.2rem;
+    text-transform: uppercase;
+    color: $color-white;
+    font-weight: 700;
+    text-align: center;
+    &--link {
+      text-decoration: none;
+      
+    }
+  }
+
+  .nav {
+    display: flex;
+    justify-content: center;
+
+    &__menu {
+      list-style: none;
+      margin: 0;
+
+      &.nav__show {
+        .nav__menu--item {
+          padding: 1rem 0;
+          border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+          letter-spacing: 1px;
+        }
+      }
+
+
+      @include respond(tablet-screen-2) {
+        height: 100vh;
+        position: fixed;
+        inset: 0 30% 0 0;
+        max-width: 30rem;
+        display: flex;
+        flex-direction: column;
+        padding: 2rem 3rem;
+        background: $color-white;
+        transform: translateX(-100%);
+        -webkit-transition: linear 0.1s;
+        transition: linear 0.1s;
+        z-index: 999;
+        visibility: hidden;
+        opacity: 0;
+   
+        
+      }
+
+      &--link {
+        display: inline-block;
+        &:not(&:last-child) {
+          padding-right: 1rem;
+        }
+        
+       
+        text-decoration: none;
+        color: $color-white;
+        text-transform: uppercase;
+        font-size: 1.5rem;
+        padding: 1.5rem 4rem;
+        border-radius: 3rem;
+        border: none;
+        transition: linear .3s;
+
+        &:hover {
+          background: $color-white;
+          color: $color-primary;
+        }
+        
+      }
+    }
+
+    &__toggle {
+      position: absolute;
+      top: 50%;
+      right: 3rem;
+      transform: translate(-50%, -50%);
+      background: transparent;
+      box-shadow: none;
+      border: none;
+      padding: 0;
+  
+      &:focus {
+        outline: none;
+      }
+  
+      @include respond(desktop-screen) {
+        display: none;
+      }
+
+      .lines {
+        position: relative;
+        display: inline-block;
+        background: $color-white;
+        width: 22px;
+        height: 2px;
+        margin: 0;
+        padding: 0;
+        vertical-align: middle;
+        -webkit-transition: linear 0.1s;
+        transition: linear 0.1s;
+    
+        &::before, &::after {
+          content: '';
+          position: absolute;
+          left: 0;
+          background: $color-white;
+          width: 22px;
+          height: 2px;
+          display: inline-block;
+          -webkit-transition: linear 0.1s;
+          transition: linear 0.1s;
+        }
+    
+        &::before {
+          top: 6px;
+        }
+    
+        &::after {
+          top: -6px;
+        }
+      }
+
+
+      &--close {
+        .lines {
+    
+          background: transparent;
+    
+          &::before, &::after {
+            top: 0;
+            -webkit-transform-origin: 50% 50%;
+            transform-origin: 50% 50%;
+          }
+          
+          &::before {
+            -webkit-transform: rotate3d(0, 0, 1, 45deg);
+            transform: rotate3d(0, 0, 1, 45deg);
+          }
+          &::after {
+            -webkit-transform: rotate3d(0, 0, 1, -45deg);
+            transform: rotate3d(0, 0, 1, -45deg);
+          }
+        }
+      }
+    }
+
+
+    &__show {
+      transform: translateX(0%);
+      visibility: visible;
+      opacity: 1;
+
+
+      a {
+        color: $color-primary;
+        text-transform: uppercase;
+        font-size: 1.5rem;
+        padding: 0;
+        border-radius: 0;
+        border: none;
+        transition: linear .3s;
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+
+  }
+
+
+
+
+
+
+
+}
